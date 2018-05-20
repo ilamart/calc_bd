@@ -1,0 +1,5 @@
+D:\C#\calc_bd\calc_bd\bin\Debug\calc_bd.exe.config
+D:\C#\calc_bd\calc_bd\bin\Debug\calc_bd.exe
+D:\C#\calc_bd\calc_bd\bin\Debug\calc_bd.pdb
+D:\C#\calc_bd\calc_bd\obj\Debug\calc_bd.exe
+D:\C#\calc_bd\calc_bd\obj\Debug\calc_bd.pdb
